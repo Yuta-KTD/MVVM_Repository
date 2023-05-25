@@ -8,3 +8,5 @@ MVVM の Repository ベースの開発アーキテクチャの練習
 - [MVVM+Repository パターンを採用した Flutter アプリを構築する](https://zenn.dev/alesion/articles/ab2df82a3809b7)
 - [Flutter の MVVM 関連あれこれ](https://zenn.dev/koji_1009/articles/f15ff24e20e36f)
 - [ChatGPT に聞いてみた](./docs/ChatGPT.md)
+
+47e613e194474978a7d6a1c333e9c0af
